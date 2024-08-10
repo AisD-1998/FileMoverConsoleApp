@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoverApp", "AckMoveToOutboundFileConsoleApp\FileMoverApp.csproj", "{596FA95D-98DC-466D-87B5-328023D717FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596FA95D-98DC-466D-87B5-328023D717FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596FA95D-98DC-466D-87B5-328023D717FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596FA95D-98DC-466D-87B5-328023D717FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596FA95D-98DC-466D-87B5-328023D717FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83367421-1721-4A4B-9F8E-5BFE2FA22302}
+	EndGlobalSection
+EndGlobal
